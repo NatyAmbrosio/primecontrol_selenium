@@ -7,7 +7,7 @@ Este projeto consiste em acessar a página de Prime Control e realizar algumas f
  - Robot Framework
  - Selenium
  - Python
- 
+ - Java
  ## Como executar
 O projeto é executado sempre que um push ou um pull-request é enviado para a branch main
 
